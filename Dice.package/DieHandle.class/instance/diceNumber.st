@@ -1,0 +1,4 @@
+initialization
+diceNumber
+
+	^ dice size 
